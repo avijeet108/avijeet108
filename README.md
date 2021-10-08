@@ -1,7 +1,9 @@
 <h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-* I’m currently a third year undergraduate pursuing B.Tech in CSE from IEM Kolkata. 
-* I'm a Flutter Developer and a programming enthusiast, skilled in C++ with decent problem solving skills and interest in Data structures and algorithms.
+**About Me**
+* 👨🏽‍💻I’m currently a third year undergraduate pursuing B.Tech in CSE from IEM Kolkata. 
+* 🌱I'm a Flutter Developer and a programming enthusiast, skilled in C++ with decent problem solving skills and interest in Data structures and algorithms.
+* 📫 Email me at [kumaravijeet108@gmail.com](mailto:kumaravijeet108@gmail.com).
 
 
 ** **
