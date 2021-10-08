@@ -13,8 +13,8 @@
 **Tech Stack**
 
 - Languages: &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=Cplusplus&logoColor=8000ff)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007ACC)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=Cplusplus&logoColor=cc66ff)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=4d94ff)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
