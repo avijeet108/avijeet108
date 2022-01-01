@@ -2,8 +2,8 @@
 
 **About Me**
 * 👨🏽‍💻I’m currently a third year undergraduate pursuing B.Tech in CSE from IEM Kolkata. 
-* 🌱I'm a Flutter Developer and a programming enthusiast, skilled in C++ with decent problem solving skills and interest in Data structures and algorithms.
-* 📫 Email me at [kumaravijeet108@gmail.com](mailto:kumaravijeet108@gmail.com).
+* 💻Proficient in C++ with decent problem solving skills. 
+* 🌐Currently learning Web Development and Flutter. <li>📫 Contact me - <a href="mailto:kumaravijeet108@gmail.com">Email</a></li>
 
 
 ** **
