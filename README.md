@@ -37,8 +37,7 @@
 
 **GitHub Metrics**
 
-<img src="https://github-readme-stats.vercel.app/api?username=avijeet108&count_private=true&show_icons=true&theme=radical">                                                 
-
+<img src="https://github-readme-stats.vercel.app/api?username=avijeet108&count_private=true&hide=stars&show_icons=true&theme=radical">                                                 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijeet108&layout=compact&theme=radical&langs_count=5">
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijeet108&count_private=true&theme=radical" alt="avijeet108" />
