@@ -1,18 +1,17 @@
 <h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-**About Me**
+**About Me 😄**
 * 👨🏽‍💻I’m currently a third year undergraduate pursuing B.Tech in CSE from IEM Kolkata. 
-* 💻Proficient in C++ with decent problem solving skills. 
-* 🌐Currently learning Web Development and Flutter. <li>📫 Contact me - <a href="mailto:kumaravijeet108@gmail.com">Email</a></li>
+* 💻I’m proficient in C++ with decent problem solving skills. 
+* 🌐I’m currently learning Web Development and Flutter. <li>📫 Contact me - <a href="mailto:kumaravijeet108@gmail.com">Email</a></li>
 
 
 ** **
 
-**Tech Stack**
+**Tech Stack 💻**
 
 - Languages: &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=Cplusplus&logoColor=cc66ff)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=4d94ff)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -35,12 +34,13 @@
   
 ** **
 
-**GitHub Metrics**
+**Github Stats 🚀**
 
-<img src="https://github-readme-stats.vercel.app/api?username=avijeet108&count_private=true&hide=stars&show_icons=true&theme=radical">                                                 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijeet108&layout=compact&theme=radical&langs_count=5">
+<p align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avijeet108&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avijeet108&theme=radical" />
+  
+</p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijeet108&count_private=true&theme=radical" alt="avijeet108" />
-
-** **
 
