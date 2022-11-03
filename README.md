@@ -1,13 +1,5 @@
 <h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-**About Me 😄**
-* 👨🏽‍💻I’m currently a final year undergraduate pursuing B.Tech in CSE from IEM Kolkata. 
-* 💻I’m proficient in C++ with decent problem solving skills. 
-* 🌐I’m currently learning Web Development and Flutter. <li>📫 Contact me - <a href="mailto:kumaravijeet108@gmail.com">Email</a></li>
-
-
-** **
-
 **Tech Stack 💻**
 
 - Languages: &nbsp;
